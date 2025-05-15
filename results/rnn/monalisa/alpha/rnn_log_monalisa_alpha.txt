@@ -1,0 +1,18 @@
+
+RNN-based model with Tanh activation
+Dataset: monalisa
+Hardware: colab T4 GPU
+Frequency channels: alpha
+All EEG channels (left and right hemispheres)
+Temporal sequence length: 100
+Batch size: 32
+Optimiser: RMSProp, 1e-4 with a scheduler
+epochs: 50
+Autocast: off
+
+Average test loss: 1.225
+Test accuracy: 58.933%
+Test F1 score: 59.323%
+Test Recall: 58.770%
+Test Precision: 61.189%
+Training time (s): 259.5

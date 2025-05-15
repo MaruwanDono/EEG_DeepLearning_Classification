@@ -1,0 +1,16 @@
+{
+    "cube": {
+        "delta": "Average test loss: 1.612, Test accuracy: 43.902%, Test F1 score: 43.930%, Test Recall: 44.254%, Test Precision: 45.035%, Training time (s): 268.5",
+        "theta": "Average test loss: 1.429, Test accuracy: 49.422%, Test F1 score: 49.011%, Test Recall: 49.510%, Test Precision: 49.239%, Training time (s): 269.3",
+        "alpha": "Average test loss: 1.134, Test accuracy: 61.361%, Test F1 score: 61.285%, Test Recall: 61.301%, Test Precision: 61.701%, Training time (s): 268.0",
+        "beta": "Average test loss: 0.477, Test accuracy: 84.724%, Test F1 score: 84.582%, Test Recall: 84.903%, Test Precision: 84.529%, Training time (s): 271.2",
+        "gamma": "Average test loss: 0.556, Test accuracy: 82.927%, Test F1 score: 83.068%, Test Recall: 83.021%, Test Precision: 83.242%, Training time (s): 267.4"
+    },
+    "monalisa": {
+        "delta": "Average test loss: 1.761, Test accuracy: 38.133%, Test F1 score: 37.900%, Test Recall: 38.101%, Test Precision: 38.366%, Training time (s): 265.0",
+        "theta": "Average test loss: 1.540, Test accuracy: 48.267%, Test F1 score: 48.399%, Test Recall: 48.459%, Test Precision: 49.047%, Training time (s): 267.4",
+		"alpha": "Average test loss: 1.225, Test accuracy: 58.933%, Test F1 score: 59.323%, Test Recall: 58.770%, Test Precision: 61.189%, Training time (s): 259.5",
+        "beta": "Average test loss: 0.511, Test accuracy: 82.400%, Test F1 score: 82.159%, Test Recall: 82.357%, Test Precision: 82.425%, Training time (s): 261.8",
+		"gamma": "Average test loss: 0.514, Test accuracy: 84.267%, Test F1 score: 84.232%, Test Recall: 84.405%, Test Precision: 84.210%, Training time (s): 263.8"
+    }
+}

@@ -1,0 +1,18 @@
+
+RNN-based model with Tanh activation
+Dataset: cube
+Hardware: colab T4 GPU
+Frequency channels: theta
+All EEG channels (left and right hemispheres)
+Temporal sequence length: 100
+Batch size: 32
+Optimiser: RMSProp, 1e-4 with a scheduler
+epochs: 50
+Autocast: off
+
+Average test loss: 1.429
+Test accuracy: 49.422%
+Test F1 score: 49.011%
+Test Recall: 49.510%
+Test Precision: 49.239%
+Training time (s): 269.3

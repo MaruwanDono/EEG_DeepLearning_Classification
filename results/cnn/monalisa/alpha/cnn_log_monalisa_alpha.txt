@@ -1,0 +1,18 @@
+
+CNN-based model
+Dataset: monalisa
+Hardware: colab T4 GPU
+Frequency channels: alpha
+All EEG channels (left and right hemispheres)
+Temporal sequence length: 100
+Batch size: 32
+Optimiser: Adam, 1e-4
+epochs: 60
+Autocast: off
+
+Average test loss: 1.374
+Test accuracy: 54.400%
+Test F1 score: 53.993%
+Test Recall: 54.054%
+Test Precision: 54.801%
+Training time (s): 259.7

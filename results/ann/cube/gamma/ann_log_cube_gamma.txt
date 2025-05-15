@@ -1,0 +1,17 @@
+
+ANN model with Tanh activation
+Dataset: cube
+Hardware: colab T4 GPU
+Frequency channels: gamma
+All EEG channels (left and right hemispheres)
+Batch size: 100
+Optimiser: Adagrad, 5e-3
+epochs: 50
+Autocast: off
+
+Average test loss: 1.792
+Test accuracy: 63.093%
+Test F1 score: 63.118%
+Test Recall: 63.228%
+Test Precision: 63.170%
+Training time (s): 2052.8

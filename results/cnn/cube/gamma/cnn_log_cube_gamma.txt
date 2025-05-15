@@ -1,0 +1,18 @@
+
+CNN-based model
+Dataset: cube
+Hardware: colab T4 GPU
+Frequency channels: gamma
+All EEG channels (left and right hemispheres)
+Temporal sequence length: 100
+Batch size: 32
+Optimiser: Adam, 1e-4
+epochs: 60
+Autocast: off
+
+Average test loss: 0.856
+Test accuracy: 79.076%
+Test F1 score: 78.650%
+Test Recall: 78.828%
+Test Precision: 79.070%
+Training time (s): 302.9
